@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "react": "^16.13.1",
-    "react-native": "^0.61.5"
+    "react-native": "^0.62.3"
   },
   "dependencies": {
     "react-native-linear-gradient": "^2.5.6",
